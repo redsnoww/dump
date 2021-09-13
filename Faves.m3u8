@@ -68,10 +68,10 @@ https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Redbox Free Live TV",** Redbox | Redbox Crime & Scandal **
 https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?CrimeAndScandal
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** ROKU CRIME TV **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",ROKU CRIME TV
 https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?crime
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | ROKU Real Truth Crime
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",ROKU Real Truth Crime
 https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjkyMjJf/RealCrime_800x800.png" group-title="Entertainment (Geo-USA)",Real Crime (Geo-USA)
@@ -86,15 +86,6 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" tvg-name="FilmRise True Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/suxN191.png" group-title="English",FilmRise True Crime (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="English",Law & Crime (720p)
-http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LawCrimeXUMO.us" tvg-name="Law & Crime (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="English",Law & Crime (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LawCrimeXUMO.us" tvg-name="Law & Crime (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="English",Law & Crime (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KVBCLP5.us" tvg-name="True Crime Network West (13.5 KVBC-LP2)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/66.5.png" group-title="English",True Crime Network West (13.5 KVBC-LP2) (432p)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 
@@ -106,9 +97,6 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVColdCaseFiles.us" tvg-name="Pluto TV Cold Case Files" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="English",Pluto TV Cold Case Files (480p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c37d6712de254456f7ec340&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=373&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="English",Law & Crime (720p)
-http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
@@ -139,6 +127,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561
 #EXTINF:-1 tvg-id="5812bfbe4ced4f7b601b12e6" tvg-chno="164" tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="USA;Entertainment",BUZZR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-chno="5013" tvg-id="Buzzr" tvg-name="Buzzr" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/21acd9d6-373a-4695-9ac0-99a35ea0fc40-small3x1_STIRR_Logo_0320_BUZZR_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR Tv",Buzzr
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr | HD
+https://buzzrota-web.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-name="Game Show Network East" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="English",Game Show Network East (720p)
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 
@@ -147,9 +141,6 @@ https://gsn-gameshowchannnel-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-name="Game Show Network East" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="English",Game Show Network East (1080p)
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr | HD
-https://buzzrota-web.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GameshowNetwork.us" tvg-name="Gameshow Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gxHuyj1.png" group-title="English",Gameshow Network (1080p)
 https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8
@@ -257,13 +248,10 @@ https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(US) TBS 4K+
 http://super-iptv.net:2052/1111/1111/50111?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-chno="5033" tvg-id="Forensics Files" tvg-name="Forensics Files" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3e64aff5-e709-4ced-8452-d67728e54718-small3x1_stirr_1219_epg_forensicfiles_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR Tv",Forensics Files
-https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
 
-#EXTINF:-1 tvg-chno="5013" tvg-id="Buzzr" tvg-name="Buzzr" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/21acd9d6-373a-4695-9ac0-99a35ea0fc40-small3x1_STIRR_Logo_0320_BUZZR_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR Tv",Buzzr
-https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 
-#EXTINF:-1 tvg-chno="5049" tvg-id="The Adventures of Sherlock Holmes" tvg-name="The Adventures of Sherlock Holmes" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/8f0ba0f2-e3aa-45ca-bc7c-26d2e4cc79d9-small3x1_stirr_0120_epg_Sherlock_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR Tv",The Adventures of Sherlock Holmes
-https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
+
+
+
 
 
