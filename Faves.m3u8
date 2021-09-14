@@ -237,16 +237,15 @@ https://cdn87.theus6tv.tk/locals/BayArea/kofy-dt1.m3u8
 #EXTINF:-1 tvg-id="KAZTDT2.us" tvg-name="MeTV Arizona" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6nXpZqz.png" group-title="English",MeTV Arizona (432p)
 https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt2.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png" group-title="Entertainment (Geo-USA)",Charge! (Geo-USA)
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
-#EXTINF:-1 tvg-id="I4.2.44936.zap2it.com" tvg-name="4.2 WNBCDT2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png",OTA | Cozi TV (National EPG)
+#EXTINF:-1 tvg-id="I4.2.44936.zap2it.com" tvg-name="4.2 WNBCDT2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png",OTA | Cozi TV WZTS-TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
-
-##################################TESTING#####################################
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(US) TBS 4K+
 http://super-iptv.net:2052/1111/1111/50111?checkedby:iptvcat.com
+
+##################################TESTING#####################################
+
+
 
 
 
