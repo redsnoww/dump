@@ -265,7 +265,6 @@ https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
 #EXTINF:-1 tvg-id="Bounce.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YoiQKeG.png" group-title="General",Bounce (720p)
 https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28506/s28506_h3_aa.png" group-title="Entertainment",AXS TV (720p)
 https://bozztv.com/teleyupp/teleup-axshd/playlist.m3u8
 
@@ -277,12 +276,6 @@ https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KTLATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="Local",KTLA 5 Los Angeles CA (720p)
 https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MavTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV (720p)
-https://bozztv.com/teleyupp/teleup-mavtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Revolt.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/Revolt.us.png" group-title="",Revolt (720p)
-https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SYFY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SdyCmW4.jpg" group-title="Entertainment",SYFY (720p)
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
