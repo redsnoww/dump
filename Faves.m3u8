@@ -245,9 +245,29 @@ http://super-iptv.net:2052/1111/1111/50111?checkedby:iptvcat.com
 
 ##################################TESTING#####################################
 
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather",WeatherSpy (1080p)
+https://jukin-weatherspy-1.plex.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WHPDT3.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",The CW Central PA (WHP-DT3) (720p)
+https://bozztv.com/teleyupp1/teleup-cw-whp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WGNTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dpI43Wg.png" group-title="Local",WGN 9 Chicago IL (WGN-TV) (720p)
+https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WCTXTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/kpygox.png" group-title="",My9 WCTX My Network TV (Connecticut) (720p)
+https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FXEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/E32ISMV.png" group-title="Entertainment",FX East (720p) [Not 24/7]
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WSVNTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zQlK5ux.png" group-title="Local",FOX 7 Miami FL (WSVN) (720p)
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",Fox News Channel (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bounce.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YoiQKeG.png" group-title="General",Bounce (720p)
+https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
 
 
 
