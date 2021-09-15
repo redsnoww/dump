@@ -1,0 +1,58 @@
+#EXTM3U
+
+
+##################################OTA Type#####################################
+
+#EXTINF:1 ,A&E (Best of) (1080p)  (English)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" tvg-country="US" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/laff.png" group-title="English",Laff (720p)
+https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KMSGLD9.us" tvg-name="LAFF TV West (KMSG-LD9)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/7.3.png" group-title="English",LAFF TV West (KMSG-LD9) (432p)
+https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.9.m3u8
+
+#EXTINF:-1 tvg-id="KOFYDT1.us" tvg-name="KOFY-DT1 San Francisco CA" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/20.1-KOFY.png" group-title="English",KOFY-DT1 San Francisco CA (720p)
+https://cdn87.theus6tv.tk/locals/BayArea/kofy-dt1.m3u8
+
+#EXTINF:-1 tvg-id="KAZTDT2.us" tvg-name="MeTV Arizona" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6nXpZqz.png" group-title="English",MeTV Arizona (432p)
+https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt2.m3u8
+
+#EXTINF:-1 tvg-id="I4.2.44936.zap2it.com" tvg-name="4.2 WNBCDT2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png",OTA | Cozi TV WZTS-TV
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(US) TBS 4K+
+http://super-iptv.net:2052/1111/1111/50111?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="WHPDT3.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",The CW Central PA (WHP-DT3) (720p)
+https://bozztv.com/teleyupp1/teleup-cw-whp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WGNTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dpI43Wg.png" group-title="Local",WGN 9 Chicago IL (WGN-TV) (720p)
+https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCTXTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/kpygox.png" group-title="",My9 WCTX My Network TV (Connecticut) (720p)
+https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FXEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/E32ISMV.png" group-title="Entertainment",FX East (720p) [Not 24/7]
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WSVNTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zQlK5ux.png" group-title="Local",FOX 7 Miami FL (WSVN) (720p)
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bounce.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YoiQKeG.png" group-title="General",Bounce (720p)
+https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28506/s28506_h3_aa.png" group-title="Entertainment",AXS TV (720p)
+https://bozztv.com/teleyupp/teleup-axshd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FreeformEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/a4/ac/c5/a4acc5f9-93fa-03b2-7dd9-c5708382d7ae/source/256x256bb.jpg" group-title="Entertainment",Freeform East (720p)
+https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GetTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/GetTV_2016_logo.png" group-title="Entertainment",GetTV (480p)
+https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTLATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="Local",KTLA 5 Los Angeles CA (720p)
+https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SYFY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SdyCmW4.jpg" group-title="Entertainment",SYFY (720p)
+https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
