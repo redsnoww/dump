@@ -5,18 +5,6 @@ https://github.com/jsosao/m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento" group-title="Lista TV 01", TNT
-http://ipeteve.com/php/SR_REGIO050321/tv4.php?ch=TNT_HD&format=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura" group-title="Lista TV 01", A&E
-http://ipeteve.com/php/SR_REGIO050321/tv4.php?ch=AYE_SD&format=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura" group-title="Lista TV 01", History Channel
-http://ipeteve.com/php/SR_REGIO050321/tv4.php?ch=HISTORY_HD&format=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura" group-title="Lista TV 01", H2
-http://ipeteve.com/php/SR_REGIO050321/tv4.php?ch=H2_SD&format=.m3u8
-
 #EXTINF:-1, DISCOVERY ID
 http://ipeteve.com/php/SR_REGIO050321/tp.php?c=2376&p=3&k=srregio&f=.m3u8
 
