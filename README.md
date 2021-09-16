@@ -2,9 +2,6 @@
 
 Mostly Pluto Links with some others I have found thrown in.  All in English.
 
-Faves:
+Faves: https://tinyurl.com/7fkmsph5
 
-https://tinyurl.com/7fkmsph5
-
-Local:
-https://tinyurl.com/rvstcxz2
+Local: https://tinyurl.com/rvstcxz2
