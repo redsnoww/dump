@@ -57,9 +57,6 @@ https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
 #EXTINF:-1 tvg-id="KVBCLP5.us" tvg-name="True Crime Network West (13.5 KVBC-LP2)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/66.5.png" group-title="English",True Crime Network West (13.5 KVBC-LP2) (432p)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjkyMjJf/RealCrime_800x800.png" group-title="Entertainment (Geo-USA)",Real Crime (Geo-USA)
-https://lds-realcrime-vizio.amagi.tv/playlist.m3u8?l1br3RE0511
-
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzMzY5NjNf/CWSeedLive_225x225.png" group-title="Entertainment (Geo-USA)",CW Seed Live (Geo-USA)
 https://cwseedlive.cwtv.com/ingest/playlist.m3u8
 
