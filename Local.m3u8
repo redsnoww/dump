@@ -5,14 +5,8 @@
 #EXTINF:-1 tvg-id="KVBCLP5.us" tvg-name="True Crime Network West (13.5 KVBC-LP2)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/66.5.png" group-title="English",True Crime Network West (13.5 KVBC-LP2) (432p)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 
-#EXTINF:-1 tvg-id="CourtTVMystery.us" tvg-name="Court TV Mystery" tvg-country="US" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/court-tv-mystery.png" group-title="English",Court TV Mystery (720p)
-https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr | HD
 https://buzzrota-web.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" tvg-country="US" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/laff.png" group-title="English",Laff (720p)
-https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KOFYDT1.us" tvg-name="KOFY-DT1 San Francisco CA" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/20.1-KOFY.png" group-title="English",KOFY-DT1 San Francisco CA (720p)
 https://cdn87.theus6tv.tk/locals/BayArea/kofy-dt1.m3u8
@@ -22,6 +16,36 @@ https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt2.m3u8
 
 #EXTINF:-1 tvg-id="I4.2.44936.zap2it.com" tvg-name="4.2 WNBCDT2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png",OTA | Cozi TV WZTS-TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(US) TBS 4K+
+http://super-iptv.net:2052/1111/1111/50111?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzMzY5NjNf/CWSeedLive_225x225.png" group-title="Entertainment (Geo-USA)",CW Seed Live (Geo-USA)
+https://cwseedlive.cwtv.com/ingest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KMSGLD9.us" tvg-name="LAFF TV West (KMSG-LD9)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/7.3.png" group-title="English",LAFF TV West (KMSG-LD9) (432p)
+https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.9.m3u8
+
+#EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network East (1080p)
+https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360 (1080p)
+https://aenetworks-crime360-1.plex.wurl.com/manifest/playlist.m3u8
+
+##################################TESTING#####################################
+
+
+
+*********************************NOT WORKING as of 9-16-21**********************************
+
+#EXTINF:-1 tvg-id="WHPDT3.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",The CW Central PA (WHP-DT3) (720p)
+https://bozztv.com/teleyupp1/teleup-cw-whp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WGNTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dpI43Wg.png" group-title="Local",WGN 9 Chicago IL (WGN-TV) (720p)
+https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SYFY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SdyCmW4.jpg" group-title="Entertainment",SYFY (720p)
+https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WCTXTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/kpygox.png" group-title="",My9 WCTX My Network TV (Connecticut) (720p)
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
@@ -41,34 +65,8 @@ https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 #EXTINF:-1 tvg-id="KTLATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="Local",KTLA 5 Los Angeles CA (720p)
 https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(US) TBS 4K+
-http://super-iptv.net:2052/1111/1111/50111?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" tvg-country="US" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/laff.png" group-title="English",Laff (720p)
+https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WHPDT3.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",The CW Central PA (WHP-DT3) (720p)
-https://bozztv.com/teleyupp1/teleup-cw-whp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WGNTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dpI43Wg.png" group-title="Local",WGN 9 Chicago IL (WGN-TV) (720p)
-https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SYFY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SdyCmW4.jpg" group-title="Entertainment",SYFY (720p)
-https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzMzY5NjNf/CWSeedLive_225x225.png" group-title="Entertainment (Geo-USA)",CW Seed Live (Geo-USA)
-https://cwseedlive.cwtv.com/ingest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KMSGLD9.us" tvg-name="LAFF TV West (KMSG-LD9)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/7.3.png" group-title="English",LAFF TV West (KMSG-LD9) (432p)
-https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.9.m3u8
-
-#EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network East (1080p)
-https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8
-
-##################################TESTING#####################################
-
-#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360 (1080p)
-https://aenetworks-crime360-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COURT TV MYSTERY
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/2180723?checkedby:iptvcat.com
-
-
-
+#EXTINF:-1 tvg-id="CourtTVMystery.us" tvg-name="Court TV Mystery" tvg-country="US" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/court-tv-mystery.png" group-title="English",Court TV Mystery (720p)
+https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
