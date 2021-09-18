@@ -59,10 +59,11 @@ https://cwseedlive.cwtv.com/ingest/playlist.m3u8
 #EXTINF:-1 tvg-id="KMSGLD9.us" tvg-name="LAFF TV West (KMSG-LD9)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/7.3.png" group-title="English",LAFF TV West (KMSG-LD9) (432p)
 https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.9.m3u8
 
-
-##################################TESTING#####################################
-
 #EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network East (1080p)
 https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8
 
+##################################TESTING#####################################
 
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="Entertainment",Crime + Investigation Asia [Offline]
+http://203.154.243.31:15001
