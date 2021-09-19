@@ -1,7 +1,7 @@
 
 Mostly Pluto Links with some others I have found thrown in.  All in English.
 
-Faves: https://tinyurl.com/7fkmsph5
+Faves: https://bit.ly/3lC3loR
 
 OTA: https://bit.ly/3AkcPLz
 
