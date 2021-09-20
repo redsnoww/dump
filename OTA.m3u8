@@ -35,11 +35,15 @@ https://aenetworks-crime360-1.plex.wurl.com/manifest/playlist.m3u8
 
 ##################################TESTING#####################################
 
-#EXTINF:-1 tvg-id="CourtTV1.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="Entertainment",Court TV 2
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="CourtTV21.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="Entertainment",Court TV 3
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.url=https%3A%2F%2Fwww.courttv.com%2F&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="Entertainment",Court TV HD
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://en.wikipedia.org/wiki/MyNetworkTV#/media/File:MyNetworkTV_2D_Logo.svg" group-title="Entertainment",MY 38 BOSTON UHD
+http://ottactive.cx:80/A6C3812C3F36/099535D27732/214549?checkedby:iptvcat.com
+
 
 
 *********************************NOT WORKING as of 9-19-21**********************************
@@ -47,8 +51,6 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=
 #EXTINF:0 tvg-country="US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/court-tv-mystery.png" group-title="Local",COURT TV MYSTERY 2
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/2180723?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="Entertainment",Court TV HD
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&checkedby:iptvcat.com
 
 
 *********************************NOT WORKING as of 9-16-21**********************************
