@@ -47,9 +47,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767790d0438aceb41d03
 #EXTINF:-1 tvg-id="5ea18cd42ee5410007e349dc" tvg-chno="209" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="Great Britain;Crime",Pluto Crime Investigation
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CourtTVMystery.us" tvg-name="Court TV Mystery" tvg-country="US" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/court-tv-mystery.png" group-title="English",Court TV Mystery (720p)
-https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FilmRiseForensicFiles.us" tvg-name="FilmRise Forensic Files" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_ForensicFiles_398x398.png?raw=true" group-title="English",FilmRise Forensic Files (360p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
 
@@ -89,9 +86,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="KVBCLP5.us" tvg-name="True Crime Network West (13.5 KVBC-LP2)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/66.5.png" group-title="English",True Crime Network West (13.5 KVBC-LP2) (432p)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 
-#EXTINF:-1 tvg-id="CrimePlusInvestigation.us" tvg-name="Crime + Investigation" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="English",Crime + Investigation
-http://203.154.243.31:15001
-
 #EXTINF:-1 tvg-id="CrimeTime.us" tvg-name="Crime Time" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="English",Crime Time (1080p)
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 
@@ -113,10 +107,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061
 
 #EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/hc5a1YP.png",US: Fox News Now 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",Fox News Channel (720p)
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-
 
 ##################################Game Shows#####################################
 
