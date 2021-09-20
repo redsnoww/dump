@@ -35,7 +35,7 @@ https://aenetworks-crime360-1.plex.wurl.com/manifest/playlist.m3u8
 
 ##################################TESTING#####################################
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="Entertainment",Court TV : HD
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="Entertainment",Court TV HD
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&checkedby:iptvcat.com
 
 
