@@ -247,7 +247,39 @@ https://aenetworks-crime360-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/court-tv-mystery.png" group-title="Local",COURT TV MYSTERY 2
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/2180723?checkedby:iptvcat.com
 
+#EXTINF:123 tvg-country="US" tvg-logo="" group-title="Undefined",HEROS  ICONS
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/14618
 
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HLN
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/13159?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Weather Channel HD
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/75416?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E FHD
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/75355?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox News HD.
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/22170?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A E
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/11196?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CRIME AND INVESTIGATION
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/13089?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Crime Investigation Discovery HD
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/13093?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",INVESTIGATION DISCOVERY
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/14620?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Network
+http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/13099?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Investigation Discovery
+http://echootv.tv:2086/icone_bbrywY/jZnuk7X6zI/256222?checkedby:iptvcat.com
 
 
 
