@@ -16,9 +16,6 @@ https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt2.m3u8
 #EXTINF:-1 tvg-id="I4.2.44936.zap2it.com" tvg-name="4.2 WNBCDT2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png",OTA | Cozi TV WZTS-TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",(US) TBS 4K+
-http://super-iptv.net:2052/1111/1111/50111?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="KMSGLD9.us" tvg-name="LAFF TV West (KMSG-LD9)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/7.3.png" group-title="English",LAFF TV West (KMSG-LD9) (432p)
 https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.9.m3u8
 
@@ -31,6 +28,8 @@ https://aenetworks-crime360-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="Entertainment",Court TV HD
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="CrimeTime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 
 ##################################TESTING#####################################
 
@@ -46,24 +45,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c37d6712de254456f7ec3
 #EXTINF:-1 tvg-id="5aea40b35126c2157123aa64" tvg-chno="376" tvg-logo="https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="USA;Crime",The New Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CrimeTime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
-https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360 (1080p)
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVSCipherNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Classic",TVS Cipher Network (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
-
-/////////Forensic Files
-#EXTINF:-1 tvg-id="FilmRiseForensicFiles.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_ForensicFiles_398x398.png?raw=true" group-title="",FilmRise Forensic Files (360p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="5bb1af6a268cae539bcedb0a" tvg-chno="370" tvg-logo="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="USA;Crime",Forensic Files
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="FilmRiseForensicFilesXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fX1PNxl.png" group-title="",FilmRise Forensic Files (XUMO) (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="STIRRForensicsFiles.us" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3e64aff5-e709-4ced-8452-d67728e54718-small3x1_stirr_1219_epg_forensicfiles_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Documentary",STIRR Forensics Files (720p) [Offline]
-https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+#EXTINF:-1 tvg-id="GameShowNetworkWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network West (1080p)
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 
 
 
