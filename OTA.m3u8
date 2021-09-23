@@ -24,8 +24,18 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 
 ##################################TESTING#####################################
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/xblvty.png" group-title="Undefined",GSN (Game Show Network)
+#EXTINF:0 tvg-country="US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/xblvty.png" group-title="Entertainment",GSN (Game Show Network)
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X23p0GB.png" group-title="Weather",Weather Nation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GameShowNetworkWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network West
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+
 
 ////////////////NOT WORKING
 
