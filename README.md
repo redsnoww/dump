@@ -1,5 +1,5 @@
 
-Mostly Pluto Links with some others I have found thrown in.  All in English.
+All in English.
 
 Faves: https://tinyurl.com/dhb3beup
 
