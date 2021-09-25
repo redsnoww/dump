@@ -22,23 +22,25 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=
 #EXTINF:-1 tvg-id="CrimeTime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeatherNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X23p0GB.png" group-title="Weather",Weather Nation
-https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:=1 tvg-id="Comet.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/COMET_2020.png/revision/latest?cb=20201116164232" group-title="Entertainment",Comet TV
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 ##################################TESTING#####################################
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/xblvty.png" group-title="Entertainment",GSN (Game Show Network)
-http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8?checkedby:iptvcat.com
 
 
-////////////////NOT WORKING
+
+###/NOT WORKING
+
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X23p0GB.png" group-title="Weather",Weather Nation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I4.2.44936.zap2it.com" tvg-name="4.2 WNBCDT2" tvg-type="live" group-title="Entertainment" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png",Cozi TV WZTS-TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 
 #EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/xblvty.png" group-title="Entertainment",GSN (Game Show Network)
+http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 
