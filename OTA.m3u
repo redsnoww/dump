@@ -25,8 +25,7 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:=1 tvg-id="Comet.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/COMET_2020.png/revision/latest?cb=20201116164232" group-title="Entertainment",Comet TV
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/xblvty.png" group-title="Entertainment",GSN (Game Show Network)
-http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
+
 
 ##################################TESTING#####################################
 
