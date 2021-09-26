@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-id="KVBCLP5.us" tvg-name="True Crime Network West (13.5 KVBC-LP2)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/66.5.png" group-title="English",True Crime Network West (13.5 KVBC-LP2) (432p)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr | HD
-https://buzzrota-web.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KOFYDT1.us" tvg-name="KOFY-DT1 San Francisco CA" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/20.1-KOFY.png" group-title="English",KOFY-DT1 San Francisco CA (720p)
 https://cdn87.theus6tv.tk/locals/BayArea/kofy-dt1.m3u8
 
