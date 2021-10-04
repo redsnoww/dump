@@ -19,9 +19,6 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:=1 tvg-id="Comet.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/COMET_2020.png/revision/latest?cb=20201116164232" group-title="Entertainment",Comet TV
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-
-##################################TESTING#####################################
-
 #EXTINF:-1 tvg-id="KNSDDT2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0Nj1N5u.png" group-title="Classic",Cozi TV San Diego CA (KNSD-DT2) (432p)
 https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt2.m3u8
 
@@ -30,6 +27,10 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Binge TV | [adult swim]",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+##################################TESTING#####################################
+
+
 
 ###NOT WORKING
 
