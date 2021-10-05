@@ -1,5 +1,4 @@
 #EXTM3U
-##################################OTA Type#####################################
 
 #EXTINF:-1 tvg-id="KVBCLP5.us" tvg-name="True Crime Network West (13.5 KVBC-LP2)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/66.5.png" group-title="English",True Crime Network West (13.5 KVBC-LP2) (432p)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
@@ -30,7 +29,8 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 ##################################TESTING#####################################
 
-
+#EXTINF:-1 tvg-id="ID" group-title="US USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",USTVGO: US: Investigation Discovery
+https://h3.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIxIDExOjIzOjUxIEFNJmhhc2hfdmFsdWU9dnJaRThEYUJtSmNOZnZaMmU2UHMvQT09JnZhbGlkbWludXRlcz0yNDA=
 
 ###NOT WORKING
 
