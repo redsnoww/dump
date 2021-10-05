@@ -27,12 +27,12 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Binge TV | [adult swim]",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-##################################TESTING#####################################
+...............TESTING
 
 #EXTINF:-1 tvg-id="ID" group-title="US USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",USTVGO: US: Investigation Discovery
 https://h3.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIxIDExOjIzOjUxIEFNJmhhc2hfdmFsdWU9dnJaRThEYUJtSmNOZnZaMmU2UHMvQT09JnZhbGlkbWludXRlcz0yNDA=
 
-###NOT WORKING
+..............NOT WORKING
 
 
 
