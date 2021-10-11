@@ -95,6 +95,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Investigation Discovery  US
+http://linea.cc:8000/test123/test123/48299.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Investigation Discovery US
+http://kingtv.net:7070/vvvv/64re039k/155388?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY INVESTIGATION HD
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/5930?checkedby:iptvcat.com
 
 
 ##################################News and Weather#####################################
