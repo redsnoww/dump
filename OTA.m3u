@@ -29,7 +29,7 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 ...............TESTING
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://logos.fandom.com/wiki/Investigation_Discovery_(United_States)?file=ID-2020.svg#2020.E2.80.93present" group-title="Undefined",Investigation Discovery  US
+#EXTINF:0 tvg-country="US" tvg-logo="C:\Users\Admin\Pictures\ID-2020.png" group-title="Crime",Investigation Discovery
 http://linea.cc:8000/test123/test123/48299.ts
 
 
