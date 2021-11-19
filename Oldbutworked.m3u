@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Undefined",A&E,US | A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E (L)
+http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5p9Eq5zd5LWnpFxM4cdmxEQ/ts
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/50.ts
+
+
+
+
+
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Crime",A&E 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CrimeTime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X23p0GB.png" group-title="Weather",Weather Nation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
