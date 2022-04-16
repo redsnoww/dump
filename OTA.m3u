@@ -11,6 +11,7 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 
 ...............Kodi
+
 #EXTINF:-1 tvg-id="PlutoTVCops.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="Series",Pluto TV Cops (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e1f7e089f23700009d66303&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=367&terminate=false&userId=
 
@@ -24,6 +25,15 @@ http://fortv.cc:8080/alphonso/alphonso/17748?checkedby:iptvcat.net
 
 #EXTINF:-1 tvg-id="HLN.us" status="online",HLN (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="History.us" status="error",History (540p) [Not 24/7]
+http://s1.mysportz.tv:2082/history/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryEast.us" status="online",History East (720p) [Not 24/7]
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 ..............NO EPG
 
