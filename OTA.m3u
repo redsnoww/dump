@@ -29,7 +29,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_356400
 #EXTINF:-1 tvg-id="History.us" status="error",History (540p) [Not 24/7]
 http://s1.mysportz.tv:2082/history/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1 tvg-id="History.us" status="online",History
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HistoryEast.us" status="online",History East (720p) [Not 24/7]
