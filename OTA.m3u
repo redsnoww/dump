@@ -22,7 +22,8 @@ http://fortv.cc:8080/alphonso/alphonso/17748?checkedby:iptvcat.net
 
 ...............TESTING
 
-
+#EXTINF:-1 tvg-id="HLN.us" status="online",HLN (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
 ..............NO EPG
 
