@@ -10,6 +10,13 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:=1 tvg-id="Courttv.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Court_TV_2019.png/revision/latest?cb=20210226211355" group-title="Crime",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 
+#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",Classic Reruns TV (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
+
+#EXTINF:-1 tvg-id="HLN.us" status="online",HLN (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+
 ...............Kodi
 
 #EXTINF:-1 tvg-id="PlutoTVCops.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="Series",Pluto TV Cops (720p)
@@ -18,19 +25,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009
 #EXTINF:-1 tvg-id="PlutoTVCops.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="Series",Pluto TV Cops (480p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="HLN.us" status="online",HLN (720p)
-https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
 
 ...............TESTING
-
-
 
 #EXTINF:-1 tvg-id="Histroy.us" tvg-name="History Channel" tvg-country="US" tvg-language="English" tvg-logo="" group-title="English",History Channel 
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HistoryEast.us" status="online",History East (720p) [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (720p)
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+
 
 ..............NO EPG
 
