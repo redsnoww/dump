@@ -10,14 +10,8 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:=1 tvg-id="Courttv.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Court_TV_2019.png/revision/latest?cb=20210226211355" group-title="Crime",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",Classic Reruns TV (720p) [Not 24/7]
-https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
-
 #EXTINF:-1 tvg-id="HLN.us" status="online",HLN (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="HistoryEast.us" status="online",History East (720p) [Not 24/7]
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (720p)
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -36,7 +30,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089
 
 ...............TESTING
 
+#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",Classic Reruns TV (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 
+#EXTINF:-1 tvg-id="HistoryEast.us" status="online",History East (720p) [Not 24/7]
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 
 
@@ -45,16 +43,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089
 
 
 
-..............NOT WORKING 11-2-21
-
-#EXTINF:-1 tvg-id="KVBCLP5.us" tvg-name="True Crime Network West (13.5 KVBC-LP2)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/66.5.png" group-title="English",True Crime Network West (13.5 KVBC-LP2) (432p)
-https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
-
-#EXTINF:-1 tvg-id="KOFYDT1.us" tvg-name="KOFY-DT1 San Francisco CA" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/20.1-KOFY.png" group-title="English",KOFY-DT1 San Francisco CA (720p)
-https://cdn87.theus6tv.tk/locals/BayArea/kofy-dt1.m3u8
-
-#EXTINF:-1 tvg-id="KNSDDT2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0Nj1N5u.png" group-title="Classic",Cozi TV San Diego CA (KNSD-DT2) (432p)
-https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt2.m3u8
-
-#EXTINF:-1 tvg-id="KAZTDT2.us" tvg-name="MeTV Arizona" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6nXpZqz.png" group-title="English",MeTV Arizona (432p)
-https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt2.m3u8
+..............NOT WORKING 
