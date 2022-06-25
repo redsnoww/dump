@@ -10,9 +10,6 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:=1 tvg-id="Courttv.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Court_TV_2019.png/revision/latest?cb=20210226211355" group-title="Crime",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 
-#EXTINF:-1 tvg-id="HLN.us" status="online",HLN (720p)
-https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (720p)
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
