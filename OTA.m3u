@@ -10,9 +10,6 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:=1 tvg-id="Courttv.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Court_TV_2019.png/revision/latest?cb=20210226211355" group-title="Crime",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 
-#EXTINF:-1 tvg-id="HLN.us" status="online",HLN (720p)
-https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (720p)
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
@@ -36,7 +33,11 @@ https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 #EXTINF:-1 tvg-id="HistoryEast.us" status="online",History East (720p) [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="Crime",Law And Crime Network (Xumo)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/bKhb8O7.png" group-title="Crime",Law and Crime (Samsung)
+https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 
 ..............NO EPG
 
