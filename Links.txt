@@ -1,0 +1,12 @@
+Pluto:
+
+Playlist:
+
+https://techzyon.com/epg/plutotv.m3u
+
+Epg:
+
+https://techzyon.com/epg/plutotv_guide.xml
+
+https://i.mjh.nz/PlutoTV/all.xml
+https://i.mjh.nz/PlutoTV/us.m3u8
