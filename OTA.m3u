@@ -26,17 +26,39 @@ https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 
 
 ...............TESTING
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Undefined",A&E,US | A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ae.us.eastern.us.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 4 DENVER SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGBmHmPDGSO6ToQh-2sdXJc/ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 5 SAN FRANSCISCO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGeTIwypOxCZ7o6Nb3XtWxM/ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COZI Network
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cozi.network.us.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX 31 DENVER
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL4DN6VD0moJt4uLLA0v0j8/ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC 11 (San Francisco Bay Area)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJkbbyhlgli9yslLhblUmho/ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WGN 9 (Chicago)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCIH_4gsSU99EL7pbsW0fx8/ts?checkedby:iptvcat.com
+
+
+
+..............NO EPG
 
 #EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",Classic Reruns TV (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 
 #EXTINF:-1 tvg-id="HistoryEast.us" status="online",History East (720p) [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
-
-..............NO EPG
-
-
 
 
 ..............NOT WORKING 
