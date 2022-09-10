@@ -27,6 +27,23 @@ https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 
 ...............TESTING
 
+#EXTINF:-1 tvg-id="TBSEast.us" status="online",TBS East 
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBSWest.us" status="online",TBS West 
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="" status="online",Vice East
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCAUDT1.us" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WCAU-DT1 (NBC 10) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCAUDT2.us" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WCAU-DT2 (COZI TV) (432p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://v-pi.theus6tv.duckdns.org/hls/10.2/playlist.m3u8
+
 
 
 ..............NO EPG
