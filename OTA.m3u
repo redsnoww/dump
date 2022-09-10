@@ -16,8 +16,6 @@ https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="Crime",Law And Crime Network (Xumo)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/bKhb8O7.png" group-title="Crime",Law and Crime (Samsung)
-https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 
 ...............Locals other Markets
 
@@ -70,10 +68,6 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3
 
 #EXTINF:-1 tvg-id="TBSWest.us" status="online",TBS West 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="" status="online",Vice East
-https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-
 
 
 
