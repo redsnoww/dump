@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:=1 tvg-id="Comet.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/COMET_2020.png/revision/latest?cb=20201116164232" group-title="Entertainment",Comet TV
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
