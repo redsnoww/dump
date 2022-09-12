@@ -15,6 +15,11 @@ https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="Crime",Law And Crime Network (Xumo)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="TBSEast.us" status="online",TBS East 
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBSWest.us" status="online",TBS West 
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 ...............Locals other Markets
 
@@ -98,12 +103,26 @@ http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 
 ................TESTING
 
-#EXTINF:-1 tvg-id="TBSEast.us" status="online",TBS East 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="DIY" group-title="ustvgo", Do it yourself (DIY)
+https://h5.ustvgo.la/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTINF:-1 tvg-id="TBSWest.us" status="online",TBS West 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="GSN" group-title="ustvgo", Game Show Network
+https://h5.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
 
+#EXTINF:0 tvg-id="Pluto.TV.History.us" group-title="ustvgo", History
+https://h5.ustvgo.la/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 tvg-id="HLN" group-title="ustvgo", HLN
+https://h5.ustvgo.la/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 tvg-id="ID" group-title="ustvgo", Investigation Discovery
+https://h5.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 tvg-id="USANetwork" group-title="ustvgo", USA Network
+https://h5.ustvgo.la/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 tvg-id="CW" group-title="ustvgo", CW
+https://h5.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
 
 
 ..............NO EPG
