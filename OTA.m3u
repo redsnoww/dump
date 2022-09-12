@@ -103,26 +103,7 @@ http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 
 ................TESTING
 
-#EXTINF:0 tvg-id="DIY" group-title="ustvgo", Do it yourself (DIY)
-https://h5.ustvgo.la/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTINF:0 tvg-id="GSN" group-title="ustvgo", Game Show Network
-https://h5.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
-
-#EXTINF:0 tvg-id="Pluto.TV.History.us" group-title="ustvgo", History
-https://h5.ustvgo.la/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
-
-#EXTINF:0 tvg-id="HLN" group-title="ustvgo", HLN
-https://h5.ustvgo.la/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
-
-#EXTINF:0 tvg-id="ID" group-title="ustvgo", Investigation Discovery
-https://h5.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
-
-#EXTINF:0 tvg-id="USANetwork" group-title="ustvgo", USA Network
-https://h5.ustvgo.la/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
-
-#EXTINF:0 tvg-id="CW" group-title="ustvgo", CW
-https://h5.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9T1NKVUFSWE1NNkw2LzVWaXBFVDR5Zz09JnZhbGlkbWludXRlcz0yNDA=
 
 
 ..............NO EPG
