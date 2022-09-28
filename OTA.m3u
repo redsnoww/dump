@@ -113,6 +113,12 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="WBRZDT1.us" status="online",WBRZ Weather Channel Baton Rouge LA
 https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WeatherSpy.us" status="online",WeatherSpy (720p)
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeatherSpy.us" status="online",WeatherSpy
+https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
+
 
 
 
