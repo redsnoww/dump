@@ -66,7 +66,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089
 
 ................TESTING
 
-
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Crime",Investigation Discovery US East
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/investigation.discovery.usa.eastern.us.m3u8
 
 
 
