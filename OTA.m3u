@@ -57,6 +57,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089
 #EXTINF:-1 tvg-id="WXXVDT1.us" status="online",WXXV-TV News Biloxi MS (720p)
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
 
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/us" group-title="undefined",IFC
+http://stream.streamhubtv.xyz:8080/marina/marina/22550
+
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/us" group-title="undefined",IFC
+http://rv.therevenge.co:80/565656/565656/81112
+
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/us" group-title="undefined",IFC
+http://rv.therevenge.co:80/live/242424/242424/81112.m3u8
+
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/us" group-title="undefined",IFC
+http://rv.imax.re:80/5124037472/1572081885/81112
+
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/us" group-title="undefined",IFC HD 1080P
+http://51.222.82.89:22829/1212/1212/323328
+
 
 ................NO EPG
 
