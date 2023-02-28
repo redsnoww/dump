@@ -72,6 +72,9 @@ http://rv.imax.re:80/5124037472/1572081885/81112
 #EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/us" group-title="undefined",IFC HD 1080P
 http://51.222.82.89:22829/1212/1212/323328
 
+#EXTINF:-1 tvg-id="IFCEast.us" status="online",IFC East (720p)
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
+
 
 ................NO EPG
 
