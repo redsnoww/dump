@@ -24,6 +24,9 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3
 #EXTINF:-1 tvg-id="FoxWeather.us" status="online",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 
+#EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Independent_Film_Channel_%28IFC%29_logo.svg",IFC East (720p)
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
+
 ...............Locals other Markets
 
 #EXTINF:-1 tvg-id="WCAUDT2.us" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WCAU-DT2 (COZI TV) (432p)
@@ -42,6 +45,10 @@ http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WXXVDT1.us" status="online",WXXV-TV News Biloxi MS (720p)
+https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
+
+
 
 ................Pluto
 
@@ -54,27 +61,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089
 
 ................TESTING
 
-#EXTINF:-1 tvg-id="WXXVDT1.us" status="online",WXXV-TV News Biloxi MS (720p)
-https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
-
-#EXTINF:-1 tvg-country="undefined" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/IFC_2018.svg/revision/latest?cb=20181111114725" group-title="undefined",IFC
-http://stream.streamhubtv.xyz:8080/marina/marina/22550
-
-#EXTINF:-1 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/us" group-title="undefined",IFC
-http://rv.therevenge.co:80/565656/565656/81112
 
 #EXTINF:-1 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/us" group-title="undefined",IFC (ZZ)
 http://rv.therevenge.co:80/live/242424/242424/81112.m3u8
-
-#EXTINF:-1 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/us" group-title="undefined",IFC
-http://rv.imax.re:80/5124037472/1572081885/81112
-
-#EXTINF:-1 tvg-country="USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/IFC_2018.svg/revision/latest?cb=20181111114725" group-title="undefined",IFC HD 1080P
-http://51.222.82.89:22829/1212/1212/323328
-
-#EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Independent_Film_Channel_%28IFC%29_logo.svg",IFC East (720p)
-https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
-
 
 
 
