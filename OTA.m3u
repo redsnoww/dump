@@ -9,12 +9,6 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:=1 tvg-id="Courttv.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Court_TV_2019.png/revision/latest?cb=20210226211355" group-title="Crime",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 
-#EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (720p)
-https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="Crime",Law And Crime Network (Xumo)
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-
 #EXTINF:-1 tvg-id="FoxWeather.us" status="online",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 
