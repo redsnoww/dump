@@ -6,9 +6,6 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 #EXTINF:0 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Binge TV | [adult swim]",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-#EXTINF:=1 tvg-id="Courttv.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Court_TV_2019.png/revision/latest?cb=20210226211355" group-title="Crime",Court TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-
 #EXTINF:-1 tvg-id="FoxWeather.us" status="online",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 
