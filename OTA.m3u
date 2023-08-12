@@ -12,6 +12,12 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Independent_Film_Channel_%28IFC%29_logo.svg",IFC East (720p)
 https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-logo="", Reelz
+https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="", HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
 ...............Locals other Markets
 
 #EXTINF:-1 tvg-id="WXXVDT1.us" status="online",WXXV-TV News Biloxi MS (720p)
