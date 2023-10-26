@@ -40,6 +40,29 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 
 
+................NEWS
+
+#EXTINF:-1 tvg-id="CBSNewsColorado.us",CBS News Colorado (720p)
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us",Newsmax (720p)
+https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsNet.us",NewsNet (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",One World News
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/2c699e7a-0f46-495a-8da7-4813e561ec39.m3u8?did=ngIZ23
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNOW.us",NBC News Now (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+
 ................NO EPG
 
 
