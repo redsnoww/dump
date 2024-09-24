@@ -4,21 +4,21 @@ https://community.chocolatey.org/packages
 choco install chocolateygui
 
 
-choco install googlechrome
-choco install firefox
-choco install putty.install
-choco install winscp.install
-choco install notepadplusplus.install
-choco install 7zip.install
-choco install brave
-choco install opera
-choco install cpu-z
-choco install tailscale
-choco install caffeine
-choco install tailscale
-choco install adblockplusfirefox
+choco install googlechrome -y
+choco install firefox -y
+choco install putty.install -y
+choco install winscp.install -y
+choco install notepadplusplus.install -y
+choco install 7zip.install -y
+choco install brave -y
+choco install opera -y
+choco install tailscale -y
+choco install caffeine -y
+choco install tailscale -y
+choco install adblockplusfirefox -y
 
 
+choco install cpu-z -y
 choco install mobaxterm
 choco install kitty
 choco install bitvise-ssh-client
@@ -26,9 +26,6 @@ choco install hwmonitor
 choco install coretemp
 choco install winsshterm
 choco install superputty.install
-
-
-
 
 choco install vmrc
 choco install adobereader
@@ -49,7 +46,6 @@ choco install setpoint
 choco install mp3tag
 choco install wsl2
 choco install everything
-choco install tv-browser -y
 choco install duckietv -y
 choco install discord.install
 choco install steam
