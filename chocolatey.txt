@@ -13,9 +13,8 @@ choco install 7zip.install -y
 choco install brave -y
 choco install opera -y
 choco install tailscale -y
-choco install caffeine -y
-choco install tailscale -y
 choco install adblockplusfirefox -y
+choco install adblockpluschrome -y
 
 
 choco install cpu-z -y
@@ -35,6 +34,7 @@ choco install virtualbox
 choco install vmwareworkstation
 
 
+choco install caffeine -y
 choco install rufus.install
 choco install treesizefree
 choco install retroarch
