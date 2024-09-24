@@ -8,7 +8,6 @@ choco install googlechrome
 choco install firefox
 choco install putty.install
 choco install winscp.install
-choco install superputty.install
 choco install notepadplusplus.install
 choco install 7zip.install
 choco install brave
@@ -19,12 +18,14 @@ choco install caffeine
 choco install tailscale
 choco install adblockplusfirefox
 
+
 choco install mobaxterm
 choco install kitty
 choco install bitvise-ssh-client
 choco install hwmonitor
 choco install coretemp
 choco install winsshterm
+choco install superputty.install
 
 
 
@@ -48,8 +49,8 @@ choco install setpoint
 choco install mp3tag
 choco install wsl2
 choco install everything
-choco install tv-browser
-choco install duckietv
+choco install tv-browser -y
+choco install duckietv -y
 choco install discord.install
 choco install steam
 choco install steam-client
@@ -70,6 +71,5 @@ VNC
 Blender
 Nextcloud desktop client
 VMware horizon client
-Rufus
 Balana etcher
 
