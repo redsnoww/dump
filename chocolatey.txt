@@ -1,0 +1,73 @@
+chocolatey
+https://community.chocolatey.org/packages
+
+choco install chocolateygui
+
+
+choco install googlechrome
+choco install firefox
+choco install putty.install
+choco install winscp.install
+choco install superputty.install
+choco install notepadplusplus.install
+choco install 7zip.install
+choco install brave
+choco install opera
+choco install cpu-z
+choco install mobaxterm
+choco install kitty
+choco install bitvise-ssh-client
+choco install hwmonitor
+choco install tailscale
+choco install caffeine
+choco install adblockplusfirefox
+choco install coretemp
+choco install winsshterm
+
+
+
+
+choco install vmrc
+choco install adobereader
+choco install docker-desktop
+choco install docker-compose
+choco install virtualbox
+choco install vmwareworkstation
+
+
+choco install rufus.install
+choco install treesizefree
+choco install retroarch
+choco install ventoy
+choco install angryip
+choco install synologydrive
+choco install unifying
+choco install setpoint
+choco install mp3tag
+choco install wsl2
+choco install everything
+choco install tv-browser
+choco install duckietv
+choco install discord.install
+choco install steam
+choco install steam-client
+choco install epicgameslauncher
+choco install vlc.install
+choco install dolphin
+choco install cemu
+choco install beyondcompare
+choco install filebot
+choco install sabnzbd
+
+
+
+
+ad block
+open office
+VNC
+Blender
+Nextcloud desktop client
+VMware horizon client
+Rufus
+Balana etcher
+
