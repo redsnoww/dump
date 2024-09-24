@@ -14,13 +14,15 @@ choco install 7zip.install
 choco install brave
 choco install opera
 choco install cpu-z
+choco install tailscale
+choco install caffeine
+choco install tailscale
+choco install adblockplusfirefox
+
 choco install mobaxterm
 choco install kitty
 choco install bitvise-ssh-client
 choco install hwmonitor
-choco install tailscale
-choco install caffeine
-choco install adblockplusfirefox
 choco install coretemp
 choco install winsshterm
 
