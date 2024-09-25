@@ -10,25 +10,24 @@ choco install putty.install -y
 choco install winscp.install -y
 choco install notepadplusplus.install -y
 choco install 7zip.install -y
-choco install brave -y
-choco install opera -y
 choco install tailscale -y
 choco install adblockplusfirefox -y
 choco install adblockpluschrome -y
+choco install brave -y
+choco install opera -y
+choco install cpu-z.install -y
+choco install hwmonitor -y
+choco install coretemp -y
 
-
-choco install cpu-z.install
 choco install cpu-z -y
 choco install mobaxterm
 choco install kitty
 choco install bitvise-ssh-client
-choco install hwmonitor
-choco install coretemp
 choco install winsshterm
 choco install superputty.install
-
 choco install vmrc
 choco install adobereader
+
 choco install docker-desktop
 choco install docker-compose
 choco install virtualbox
