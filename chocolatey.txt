@@ -34,12 +34,14 @@ choco install virtualbox
 choco install vmwareworkstation
 
 
+choco install veeam-agent
 choco install caffeine -y
 choco install rufus.install
 choco install treesizefree
 choco install retroarch
 choco install ventoy
 choco install angryip
+choco install advanced-ip-scanner
 choco install synologydrive
 choco install unifying
 choco install setpoint
@@ -57,15 +59,14 @@ choco install cemu
 choco install beyondcompare
 choco install filebot
 choco install sabnzbd
+choco install openoffice
 
 
 
 
 ad block
-open office
 VNC
 Blender
-Nextcloud desktop client
 VMware horizon client
 Balana etcher
 
