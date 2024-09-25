@@ -17,6 +17,7 @@ choco install adblockplusfirefox -y
 choco install adblockpluschrome -y
 
 
+choco install cpu-z.install
 choco install cpu-z -y
 choco install mobaxterm
 choco install kitty
@@ -60,7 +61,7 @@ choco install beyondcompare
 choco install filebot
 choco install sabnzbd
 choco install openoffice
-
+choco install vmware-horizon-client
 
 
 
