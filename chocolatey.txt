@@ -1,18 +1,20 @@
 chocolatey
 https://community.chocolatey.org/packages
 
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
 choco install chocolateygui
 
 
 choco install googlechrome -y
 choco install firefox -y
+choco install adblockplusfirefox -y
+choco install adblockpluschrome -y
 choco install putty.install -y
 choco install winscp.install -y
 choco install notepadplusplus.install -y
 choco install 7zip.install -y
 choco install tailscale -y
-choco install adblockplusfirefox -y
-choco install adblockpluschrome -y
 choco install brave -y
 choco install opera -y
 choco install cpu-z.install -y
