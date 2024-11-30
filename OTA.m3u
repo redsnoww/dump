@@ -3,26 +3,16 @@
 #EXTINF:=1 tvg-id="Comet.us" tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/COMET_2020.png/revision/latest?cb=20201116164232",Comet TV
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true",Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
 #EXTINF:-1 tvg-id="FoxWeather.us",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-
-#EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Independent_Film_Channel_%28IFC%29_logo.svg",IFC East (720p)
-https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-logo="", Reelz
-https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="", HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now (roku)
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+
 ...............Locals other Markets
-
-#EXTINF:-1 tvg-id="WXXVDT1.us" status="online",WXXV-TV News Biloxi MS (720p)
-https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
-
 
 
 ................Pluto
@@ -33,35 +23,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d663
 
 ................TESTING
 
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now (Plex)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now (roku)
-https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
-
 
 ................NEWS
 
-#EXTINF:-1 tvg-id="CBSNewsColorado.us",CBS News Colorado (720p)
-https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-
-#EXTINF:-1 tvg-id="NewsmaxTV.us",Newsmax (720p)
-https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 tvg-id="NewsNet.us",NewsNet (720p) [Not 24/7]
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="",One World News
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/2c699e7a-0f46-495a-8da7-4813e561ec39.m3u8?did=ngIZ23
-
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBCNewsNOW.us",NBC News Now (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
 ................NO EPG
 
