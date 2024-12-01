@@ -1,8 +1,6 @@
 
 All in English.
 
-Faves: https://tinyurl.com/dhb3beup
-
 OTA: https://tinyurl.com/3wsyd365
 
 Blank: https://tinyurl.com/3yun476c
