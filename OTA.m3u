@@ -43,3 +43,6 @@ http://fl2.moveonjoy.com/history_channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/logo/history-channel-0?original=1" group-title="Entertainment",History Channel 2
 http://fl1.moveonjoy.com/history_channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/logo/investigation-discovery?original=1" group-title="Entertainment",Investigation Discovery
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
