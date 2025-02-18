@@ -46,3 +46,6 @@ http://fl1.moveonjoy.com/history_channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/logo/investigation-discovery?original=1" group-title="Entertainment",Investigation Discovery
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="GameShowCentral.us",Game Show Central (720p)
+https://aegis-cloudfront-1.tubi.video/db7dcb0b-3e7a-4d67-90a9-6c028ab2fc88/playlist.m3u8
