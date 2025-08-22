@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FoxWeather.us",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="", HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now (roku)
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/logo/history-channel-0?original=1" group-title="Entertainment",History Channel 2
+http://fl1.moveonjoy.com/history_channel/index.m3u8
+
+
+................Pluto
+
+#EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-chno="367" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png",COPS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+................NEWS
+#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsy.us",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+
+.............Testing
+
